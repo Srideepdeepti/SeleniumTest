@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-07-26T17:55:58 AEST" name="Suite" finished-at="2024-07-26T17:56:08 AEST" duration-ms="9830">
+  <suite started-at="2024-07-26T21:04:13 AEST" name="Suite" finished-at="2024-07-26T21:04:24 AEST" duration-ms="10508">
     <groups>
     </groups>
-    <test started-at="2024-07-26T17:55:58 AEST" name="Test" finished-at="2024-07-26T17:56:08 AEST" duration-ms="9830">
+    <test started-at="2024-07-26T21:04:13 AEST" name="Test" finished-at="2024-07-26T21:04:24 AEST" duration-ms="10508">
       <class name="packageTest.ProgramTest1">
-        <test-method is-config="true" signature="setup()[pri:0, instance:packageTest.ProgramTest1@33afa13b]" started-at="2024-07-26T17:55:58 AEST" name="setup" finished-at="2024-07-26T17:56:07 AEST" duration-ms="9076" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:packageTest.ProgramTest1@33afa13b]" started-at="2024-07-26T21:04:13 AEST" name="setup" finished-at="2024-07-26T21:04:23 AEST" duration-ms="9891" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyTitle()[pri:0, instance:packageTest.ProgramTest1@33afa13b]" started-at="2024-07-26T17:56:07 AEST" name="verifyTitle" finished-at="2024-07-26T17:56:08 AEST" duration-ms="239" status="PASS">
+        <test-method signature="verifyTitle()[pri:0, instance:packageTest.ProgramTest1@33afa13b]" started-at="2024-07-26T21:04:23 AEST" name="verifyTitle" finished-at="2024-07-26T21:04:24 AEST" duration-ms="232" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTitle -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:packageTest.ProgramTest1@33afa13b]" started-at="2024-07-26T17:56:08 AEST" name="teardown" finished-at="2024-07-26T17:56:08 AEST" duration-ms="438" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:packageTest.ProgramTest1@33afa13b]" started-at="2024-07-26T21:04:24 AEST" name="teardown" finished-at="2024-07-26T21:04:24 AEST" duration-ms="306" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
